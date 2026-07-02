@@ -1,0 +1,24 @@
+# ── Datos crudos M5 (pesados, ~450 MB) — no versionar ──────────────────────
+data/m5/*.csv
+
+# ── Salidas generadas por el prototipo ─────────────────────────────────────
+outputs/*.csv
+outputs/*.db
+outputs/*.sqlite
+models/*.joblib
+models/*.pkl
+
+# ── Entorno Python ─────────────────────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ── Documentos pesados / temporales ────────────────────────────────────────
+*.docx
+~$*
+
+# ── VS Code / IDE ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
