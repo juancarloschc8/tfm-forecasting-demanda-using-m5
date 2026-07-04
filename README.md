@@ -7,9 +7,16 @@ pronóstico de demanda sobre el dataset
 de Walmart, comparando modelos estadísticos y de *machine learning* y
 exponiendo los resultados en un cuadro de mando interactivo.
 
-> **Autores:** Juan Carlos Chávez Cruz, José Carlos Castillo Villa, Marco Antonio Martínez Parada, Marcos José Nunez Estevez  
-> **Asignatura:** Trabajo Final de Máster
-> **Repositorio:** https://github.com/juancarloschc8/tfm-forecasting-demanda-using-m5
+> **Autores:**
+> - Juan Carlos Chávez Cruz
+> - José Carlos Castillo Villa
+> - Marco Antonio Martínez Parada
+> - Marcos José Nunez Estevez  
+> 
+
+**Asignatura:** Trabajo Final de Máster
+
+**Repositorio:** https://github.com/juancarloschc8/tfm-forecasting-demanda-using-m5
 
 ---
 
